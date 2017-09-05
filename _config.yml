@@ -6,9 +6,9 @@ description: A Data Science Enthusiast
 
 # User settings
 username: Kevin Woo
-user_description: quirky nerd
+user_description:
 user_title: Undergrad CS@Columbia University
-email: dw2799@columbia.edu  
+email: dw2799@columbia.edu
 github_username: kevwoo
 
 # Google-analytics
