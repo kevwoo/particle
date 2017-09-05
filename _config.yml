@@ -1,13 +1,13 @@
 # Site settings
-title: Welcome to Kevin's blog!
-description: A data science enthusiast
+title: Welcome to Kevin's Blog!
+description: A Data Science Enthusiast
 # baseurl: "/kevwoo.github.io" # the subpath of your site, e.g. /blog
 # url: "https://kevwoo.github.io/" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Kevin Woo
 user_description: quirky nerd
-user_title: UndergradCS@Columbia University
+user_title: Undergrad CS@Columbia University
 email: dw2799@columbia.edu  
 github_username: kevwoo
 
